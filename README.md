@@ -1,2 +1,1 @@
-[["# Solidity-Alchemy" 
-](https://university.alchemy.com/overview/solidity)https://university.alchemy.com/overview/solidity](https://university.alchemy.com/overview/solidity)https://university.alchemy.com/overview/solidity
+Solidity course from Alchemy: https://university.alchemy.com/overview/solidity
