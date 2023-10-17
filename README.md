@@ -1,1 +1,1 @@
-Solidity course from Alchemy: https://university.alchemy.com/overview/solidity
+Exercises to the Solidity course from Alchemy: https://university.alchemy.com/overview/solidity
